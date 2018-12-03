@@ -3,3 +3,15 @@
 urule-console/target/
 urule-core/target/
 urule-springboot/target/
+/target
+/bin
+/.settings
+.classpath
+target
+build
+.idea
+*.iml
+.project
+
+.DS_Store
+*/log/
